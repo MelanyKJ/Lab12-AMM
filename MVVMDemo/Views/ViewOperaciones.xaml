@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVMDemo.Views.ViewOperaciones">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text ="Calculadora" HorizontalOptions="Center" FontAttributes ="Bold" TextColor="#FF5733"/>
+        <StackLayout Padding="10" BackgroundColor="#F7E59B">
+            <Entry Placeholder="Ingrese Numero 1" Text="{Binding ValorA}"></Entry>
+            <Entry Placeholder="Ingrese Numero 1" Text="{Binding ValorB}" ></Entry>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button Text="Sumar" Command="{Binding Sumar}" ></Button>
+            <Button Text="Restar" Command="{Binding Restar}" ></Button>
+            <Button Text="Multiplicar" Command="{Binding Multiplicar}" ></Button>
+            <Button Text="Dividir" Command="{Binding Dividir}" ></Button>   
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Label Text="Resultado de la operacion es: " FontAttributes ="Bold" TextColor="#FF5733"/>
+            <Label Text="{Binding Operacion}"/>
+        </StackLayout>
+
+            <Label Text="{Binding Message}" TextColor="Red" FontAttributes ="Bold"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

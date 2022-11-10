@@ -1,0 +1,16 @@
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.csproj.AssemblyReference.cache
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\Views\ViewOperaciones.xaml.g.cs
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.AssemblyInfoInputs.cache
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.AssemblyInfo.cs
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\bin\Debug\netstandard2.0\MVVMDemo.deps.json
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\bin\Debug\netstandard2.0\MVVMDemo.dll
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\bin\Debug\netstandard2.0\MVVMDemo.pdb
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.dll
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\refint\MVVMDemo.dll
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\MVVMDemo.pdb
+C:\Users\Aaron\Source\Repos\Multiplataforma-Lab11\MVVMDemo\MVVMDemo\obj\Debug\netstandard2.0\ref\MVVMDemo.dll
